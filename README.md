@@ -54,6 +54,8 @@
     don't allow to save Order with empty textarea field
     
     needs visual adjustments
+    
+    remove seconds and miliseconds from "date" in Order List
   
 # Tech used to make this webapp:
 
