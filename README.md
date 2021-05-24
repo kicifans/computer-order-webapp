@@ -43,6 +43,17 @@
     List is ordered by Date.
 
 
+ # TO DO : 
+ 
+    create Exception handlers
+    
+    remove hardcoded computer specifications from order-form
+    
+    make textarea safe from injections
+    
+    don't allow to save Order with empty textarea field
+    
+    needs visual adjustments
   
 # Tech used to make this webapp:
 
