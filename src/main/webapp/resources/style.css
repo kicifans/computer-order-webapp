@@ -1,0 +1,10 @@
+/*This css ir used purely to change rows color based on Order Status*/
+.REJECTED {
+    background: lightcoral;
+    color: black;
+}
+
+.ACCEPTED {
+    background: lightgreen;
+    color: black;
+}
