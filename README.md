@@ -55,7 +55,7 @@
     
     needs visual adjustments
     
-    remove seconds and miliseconds from "date" in Order List
+    remove seconds and miliseconds from "Order Date" in Order List
   
 # Tech used to make this webapp:
 
